@@ -1,10 +1,10 @@
-package com.chughes.login;
+package com.chughes.events;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LoginApplicationTests {
+class EventsApplicationTests {
 
 	@Test
 	void contextLoads() {
